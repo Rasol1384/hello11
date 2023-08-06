@@ -1,0 +1,14 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "C_Cpp.default.compilerPath": "c:\\Users\\Rasoul\\OneDrive\\دسکتاپ\\7 seg\\New folder\\C\\1.c",
+    "C_Cpp.errorSquiggles": "disabled"
+}
